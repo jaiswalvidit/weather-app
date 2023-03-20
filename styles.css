@@ -1,0 +1,23 @@
+*{
+    font-style:oblique;
+    font: size 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:capitalize;
+    text-align: center;
+    word-spacing: 3px;
+}
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1561484930-998b6a7b22e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYXRoZXIlMjBhcHB8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60https://img.freepik.com/free-vector/flat-user-interface-concept-with-weather-widgets-web-elements-mobile-design_1284-45211.jpg?w=740&t=st=1679251328~exp=1679251928~hmac=729ed5151b2dda589ce29ab307393551020c17abab5bfd825dbfd22f7e157c5c");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.navbar{
+    background-color: rgb(255, 140, 0);
+}
+
+.title1{
+    
+    background-color: rgb(23, 105, 105);
+}
